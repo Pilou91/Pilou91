@@ -1,3 +1,10 @@
+# Pilou91
+
+## 📊 Statistics
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilou91&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pilou91&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pilou91&theme=radical&hide_border=true)
+
 ## 🚀 Languages I know well
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
